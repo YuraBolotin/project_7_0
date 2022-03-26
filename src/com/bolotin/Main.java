@@ -12,7 +12,7 @@ public class Main {
         String fullName = lastleName + " " + fistName + " " +  middleName;
         System.out.println("ФИО сотрудника — " + fullName);
 
-//        Задание 2
+//       Задание 2
         System.out.println("Задание 2");
         String s1 = fullName.toUpperCase();
         System.out.println("ФИО сотрудника для заполнения счета — " + s1);
