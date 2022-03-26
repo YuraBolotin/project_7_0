@@ -17,7 +17,7 @@ public class Main {
         String s1 = fullName.toUpperCase();
         System.out.println("ФИО сотрудника для заполнения счета — " + s1);
 
-//        Задание 3
+//       Задание 3
         System.out.println("Задание 3");
         String s = "Иванов Семён Семёнович";
         String s2 = s.replace('ё', 'е');
